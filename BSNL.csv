@@ -1,0 +1,11 @@
+CustomerID,Gender,Age,MonthlyIncome,TotalUsageMinutes,ContractLength,HandsetType,DataUsage,OverageMinutes,RoamingMinutes,Churn
+1,Male,35,5000,400,12,Smartphone,2,30,5,0
+2,Female,28,4200,350,6,Basic Phone,1.5,10,2,0
+3,Male,42,6000,500,24,Smartphone,3,20,10,1
+4,Female,55,8000,600,12,Smartphone,1,5,0,0
+5,Male,30,4800,450,6,Basic Phone,1,15,5,1
+6,Female,40,5500,380,18,Smartphone,2.5,25,8,0
+7,Male,22,3200,300,12,Smartphone,1,40,15,1
+8,Female,45,7000,600,24,Smartphone,3.5,50,12,0
+9,Female,32,5200,420,12,Smartphone,2,18,7,0
+10,Male,50,7500,550,24,Smartphone,4,35,20,1
